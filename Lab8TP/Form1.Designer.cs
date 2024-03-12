@@ -47,9 +47,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(508, 257);
+            this.button1.Location = new System.Drawing.Point(562, 246);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(88, 27);
+            this.button1.Size = new System.Drawing.Size(121, 34);
             this.button1.TabIndex = 0;
             this.button1.Text = "Вычислить";
             this.button1.UseVisualStyleBackColor = true;
@@ -173,9 +173,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(508, 310);
+            this.button2.Location = new System.Drawing.Point(562, 299);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(88, 23);
+            this.button2.Size = new System.Drawing.Size(121, 34);
             this.button2.TabIndex = 13;
             this.button2.Text = "Очистить";
             this.button2.UseVisualStyleBackColor = true;
@@ -201,7 +201,7 @@
             this.Controls.Add(this.textBoxBaseSide1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Лабораторная работа №8";
             this.ResumeLayout(false);
             this.PerformLayout();
 
